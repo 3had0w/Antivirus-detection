@@ -5,5 +5,6 @@
 
 随手写了个批处理，不过存在一定漏报，因为用qprocess的缺陷就是进程名称过长后便无法查到！
 * 清理痕迹：C:\Users\Administrator\AppData\LocalLow\Microsoft\CryptnetUrlCache\Content
+* 其他类似项目：https://github.com/uknowsec/SharpAVKB
 
 ![Antivirus](./Antivirus.png "Antivirus")
